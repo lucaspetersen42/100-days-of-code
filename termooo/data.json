@@ -1,0 +1,15 @@
+{
+  "games_played": 11,
+  "games_won": 10,
+  "win_percentage": 0.9090909090909091,
+  "curr_streak": 4,
+  "max_streak": 6,
+  "number_of_guesses": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 2,
+    "5": 0,
+    "6": 0
+  }
+}
